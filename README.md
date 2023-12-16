@@ -1,2 +1,7 @@
 # JavaScript-By-ThinkBeyond
-JavaScript By ThinkBeyond
+
+* พื้นฐาน JavaScript ครบทุกแง่มุม  สำหรับนักเรียน นักศึกษา และโปรแกรมเมอร์
+* การใช้ JacaScript จัดการกับ DOM
+* สร้างเว็บแอปพลิเคชั่นฝั่งเชิร์ฟเวิอร์ด้วย Node.js
+* พื้นฐานการใช้งานฐานข้อมูล MongoDB พร้อมตัวอย่างแอปพลิเคชั่น
+* วิธีใช้งานแพ็กเกจยอดนิยม เช่น express, mongoose, jsonwebtoken, ejs และ อื่นๆ
